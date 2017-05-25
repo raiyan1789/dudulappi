@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Roboto:400,700');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+
 * 			{
 
 	box-sizing:border-box;
@@ -14,11 +18,13 @@
 
 body	{
 
-	background-color: lightblue;
-
-
+	background-color:skyblue;
+	font-family: 'Playfair Display', serif;
+	font-family: 'Roboto', sans-serif;
 
 		}
+
+
 nav ul {
 	padding:10px 20px 30px 40px;
 	overflow: auto;
@@ -56,11 +62,11 @@ nav a:hover {
 			}
 
 .dudulappi {
-	padding: 450px 20px;
+	padding: 350px 20px;
 	background-image: url("../images/landscape.jpeg");
 	background-size: cover;
 	background-position: center;
-	color: #fff;
+	color: lightgreen;
 	text-align: center;
 
 
@@ -71,12 +77,14 @@ h1    {
 
 	color: white;
 	text-align: center;
+	font-family: 'Lobster', cursive;
+	font-size:60px;
 
 	  }	
 h2 {
 
 		color:yellow;
-		margin:0px;
+		margin:10px 0;
 		background-color: black;
 		padding:10px;
 
@@ -85,9 +93,9 @@ h2 {
 }
 .main-content {
 
-	background-color: #fff;
-	padding: 20px;
-	margin: 20px;
+	background-color: #FFDAB9;
+	padding: 50px;
+	margin: 30px;
 	
 
 			}
@@ -105,10 +113,18 @@ h2 {
 		background-size: cover;
 		background-position: center;
 
-
-
-
 		}
+
+/* These are Utility Classes 
+===========================================================*/
+
+.center-text {
+	text-align: center;
+
+			}
+
+
+
 
 
 

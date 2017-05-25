@@ -73,3 +73,74 @@ h1    {
 	text-align: center;
 
 	  }	
+h2 {
+
+		color:yellow;
+		margin:0px;
+		background-color: black;
+		padding:10px;
+
+
+
+}
+.main-content {
+
+	background-color: #fff;
+	padding: 20px;
+	margin: 20px;
+	
+
+			}
+.main-content p 
+			{
+				color:black;
+				background-color: grey;
+
+			}	
+.img-50 {
+
+		width: 50%;
+		display: block;
+		margin: 10px auto;
+		background-size: cover;
+		background-position: center;
+
+
+
+
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
